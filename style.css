@@ -1,0 +1,26 @@
+body {
+  background: #ccc;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 200;
+  line-height: 150%;
+  letter-spacing: 0.5pt;
+}
+
+h1 {
+  font-weight: 200;
+  letter-spacing: 2pt;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.content {
+  width: 960px;
+  background: #fff;
+  margin: 0 auto;
+  padding: 50px;
+}
